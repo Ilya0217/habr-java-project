@@ -9,6 +9,6 @@ entries:
     name: msvc-chart
     type: application
     urls:
-    - https://ilya0217.github.io/habr-java-project/msvc-chart-0.1.0.tgz
+    - https://ilya0217.github.io/habr-java-project/docs/msvc-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2025-04-23T18:58:16.319080499+03:00"
