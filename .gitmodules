@@ -1,0 +1,3 @@
+[submodule "microservices-backend"]
+    path = microservices-backend
+    url = https://github.com/ilya0217/microservices-backend.git
